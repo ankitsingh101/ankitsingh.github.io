@@ -34,6 +34,13 @@ body {
     padding: 6px 12px;
     line-height: 1.42857143;
     border-radius: 4px;
+    margin-right: 3px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    height: 30px;
+    line-height: 30px;
+    padding-top: 0;
 }
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -138,11 +145,9 @@ header ul {
 }
 
 header li {
-    width: 50px;
     float: left;
     background: #031634;
     border: #031634;
-    height: 40px;
     border-radius: 5px;
 }
 
