@@ -29,18 +29,16 @@ body {
     margin-top: -8px;
 }
 .btn {
-    display: inline-block;
     white-space: nowrap;
     padding: 6px 12px;
-    line-height: 1.42857143;
     border-radius: 4px;
     margin-right: 3px;
-    -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
-    height: 30px;
-    line-height: 30px;
+    height: 20px;
     padding-top: 0;
+    color: #fafafa;
+    padding-top: 10px;
 }
 h1, h2, h3, h4, h5, h6 {
   color:#222;
