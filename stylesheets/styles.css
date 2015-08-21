@@ -140,12 +140,11 @@ header ul {
 header li {
     width: 89px;
     float: left;
- 
+    background: #031634;
+    border: #031634;
     height: 40px;
     background: #eee;
     border-radius: 5px;
- 
-  
 }
 
 header ul a {
