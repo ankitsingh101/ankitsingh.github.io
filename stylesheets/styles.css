@@ -28,7 +28,13 @@ body {
     box-sizing: border-box;
     margin-top: -8px;
 }
-
+.btn {
+    display: inline-block;
+    white-space: nowrap;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
