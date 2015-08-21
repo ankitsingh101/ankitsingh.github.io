@@ -139,7 +139,9 @@ header li {
     height: 40px;
     border-radius: 5px;
 }
-
+header li:before {
+content: "\f019";
+}
 header ul a {
   line-height:1;
   font-size:11px;
