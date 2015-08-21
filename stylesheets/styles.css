@@ -19,15 +19,15 @@ body {
     border: 5px solid #249991;
     margin: 0 auto;
     background: #fafafa;
-   -webkit-box-sizing: border-box; 
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+   padding:5px;
 }
 .profile-pic img {
     vertical-align: middle;
     max-width: 110%;
     margin-left: -10px;
-    -webkit-box-sizing: border-box;
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
     margin-top: -8px;
 }
 
