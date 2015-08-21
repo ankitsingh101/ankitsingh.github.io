@@ -35,11 +35,11 @@ body {
     margin-right: 3px;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
-    height: 20px;
-    padding-top: 0;
+    height: 25px;
     color: #fafafa;
-    padding-top: 10px;
+    padding-top: 3px;
 }
+    
 .btn-hide-text {
     display: inline-block;
     width: 0;
